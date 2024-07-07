@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parthib Biswas</h1>
 <h3 align="center">An Aspiring Coder-Developer from India</h3>
-<img align="left" width="400" height"270" src="https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media">
+<img align="left" width="400"src="https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthibbiswas10&label=Profile%20views&color=0e75b6&style=flat" alt="parthibbiswas10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthibbiswas10" alt="parthibbiswas10" /></a> </p>
