@@ -35,7 +35,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthibbiswas10&" alt="parthibbiswas10" /></p>
 
 
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+
