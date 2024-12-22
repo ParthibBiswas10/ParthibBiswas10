@@ -37,9 +37,19 @@
 <img src="https://skillicons.dev/icons?i=html,css,vscode,github,tailwind"/>
     <img src="https://skillicons.dev/icons?i=javascript,c,linux,figma,git" /><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthibbiswas10&show_icons=true&locale=en&layout=compact" alt="parthibbiswas10" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ParthibBiswas10&theme=dark&border_radius=7.2)](https://git.io/streak-stats)
+<div style="display: flex; align-items: center;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=parthibbiswas10&show_icons=true&locale=en&layout=compact" 
+    alt="parthibbiswas10" 
+    style="margin-right: 10px;" 
+  />
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://streak-stats.demolab.com?user=ParthibBiswas10&theme=dark&border_radius=7.2" 
+      alt="GitHub Streak" 
+    />
+  </a>
+</div>
 
 
 
