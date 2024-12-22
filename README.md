@@ -34,7 +34,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,vscode,github,tailwind,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,vscode,github,tailwind,react,vercel"/>
     <img src="https://skillicons.dev/icons?i=javascript,c,linux,figma,git,python,java" /><br>
 
 <table>
