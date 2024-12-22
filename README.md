@@ -41,7 +41,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ParthibBiswas10&theme=dark&border_radius=7.2)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthibbiswas10&" alt="parthibbiswas10" /></p>
+
 
 
 
