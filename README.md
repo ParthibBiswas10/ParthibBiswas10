@@ -41,7 +41,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=parthibbiswas10&show_icons=true&locale=en&layout=compact" 
     alt="parthibbiswas10" 
-    style="margin-right: 10px;" 
+    style="margin-right: 18px;" 
   />
   <a href="https://git.io/streak-stats">
     <img 
