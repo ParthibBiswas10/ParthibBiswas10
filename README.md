@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **FrontEnd development**
 
-- 💬 Ask me about **C,CSS,HTML**
+- 💬 Ask me about **Football & Movies**
 
 - 📫 How to reach me **parthiblm10@gmail.com**
 
