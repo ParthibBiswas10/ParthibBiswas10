@@ -59,7 +59,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ParthibBiswas10&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ParthibBiswas10&label=Profile%20views&color=ffff&style=flat" alt="ParthibBiswas10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ParthibBiswas10&label=Profile%20views&color=&style=flat" alt="ParthibBiswas10" /> </p>
 
 
 
