@@ -57,7 +57,7 @@
 </table>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ParthibBiswas10&limit=5&theme=dark&hide=B,B%2)
+![](https://github-contributor-stats.vercel.app/api?username=ParthibBiswas10&limit=5&theme=dark)
 
 
 
