@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Parthib Biswas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi,I'm Parthib Biswas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </h1>
 <img src="https://github.com/ParthibBiswas10/ParthibBiswas10/blob/main/WELCOME%20TO%20MY%20GitHub.gif">
 <h1 align="center">
