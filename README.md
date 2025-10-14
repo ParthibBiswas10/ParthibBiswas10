@@ -9,7 +9,7 @@
 
 <h1 align="center">Coder-Developer from India</h1>
 <br>
-<img src="https://github.com/ParthibBiswas10/ParthibBiswas10/blob/main/Screenshot%202024-11-08%20233846.png">
+[![An image of @parthibbiswas10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parthibbiswas10)](https://holopin.io/@parthibbiswas10)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthibbiswas10&label=Profile%20views&color=0e75b6&style=flat" alt="parthibbiswas10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthibbiswas10" alt="parthibbiswas10" /></a> </p>
