@@ -4,7 +4,7 @@
 <img src="https://github.com/ParthibBiswas10/ParthibBiswas10/blob/main/WELCOME%20TO%20MY%20GitHub.gif">
 <h1 align="center">
    <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=5000&lines=💻Passionate+About+Pixels+and+Processes💻;🔁+CODE,+DEBUG+,REPEAT🔁;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=5000&lines=💻Passionate+About+Pixels+&+Processes💻;🔁+CODE,+DEBUG+,REPEAT🔁;" />
 </h2>
 
 <h1 align="center">Coder-Developer from India</h1>
